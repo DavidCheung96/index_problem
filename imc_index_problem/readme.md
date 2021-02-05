@@ -1,4 +1,5 @@
 This was made for a programming competition. See below for the explanation of this question. 
+My algorithm would take the first stock and make it the whole index. Afterwards, it will look at the the current index name and see if the end or start would respectively start or end with the same letters. If so, then it could combine it without writing the whole new stock name. 
 
 Problem Statement
 There are many different stocks in the world: AAPL, GOOG, TSLA. Stocks are tracked by various indices: DAX, ES, FTSE.
