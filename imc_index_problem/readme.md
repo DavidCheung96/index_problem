@@ -1,5 +1,5 @@
 This was made for a programming competition. See below for the explanation of this question. 
-My algorithm would take the first stock and make it the whole index. Afterwards, it will look at the the current index name and see if the end or start would respectively start or end with the same letters. If so, then it could combine it without writing the whole new stock name. 
+My algorithm would take the first stock and make it the whole index. Afterwards, it will look at the current index name and see if the end or start would respectively start or end with the same letters. If so, then it could combine it without writing the whole new stock name. Of course, if the new stock name is already in the current indexname, then it would skip the new name.
 
 Problem Statement:
 
